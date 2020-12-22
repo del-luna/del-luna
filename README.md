@@ -1,6 +1,6 @@
 ### Hi there 👋
 <!--
-**py-tonic/py-tonic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**del-luna/del-luna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ML/DL
@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![py-tonic's github stats](https://github-readme-stats.vercel.app/api?username=py-tonic)](https://github.com/anuraghazra/github-readme-stats)
+[![del-luna's github stats](https://github-readme-stats.vercel.app/api?username=del-luna)](https://github.com/anuraghazra/github-readme-stats)
